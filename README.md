@@ -1,3 +1,3 @@
 # student-first-github
-First Github
+this is my first github project
 author-pornima parwate
